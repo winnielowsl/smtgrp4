@@ -1,0 +1,12 @@
+name: "smtgrp4"
+title: "SMT201 Project Group 4"
+description: |
+  SMT201 Project Group 4
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to SMT201 Project Group 4",
+    "description": "Welcome to our new blog, SMT201 Project Group 4. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-10-14",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-10-14T16:20:00+08:00",
+    "input_file": {}
+  }
+]
